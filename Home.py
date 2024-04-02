@@ -1,7 +1,7 @@
 import streamlit as st
 
 # set page config
-st.set_page_config(page_title="Sakunyann's Data Science Portfolio",
+st.set_page_config(page_title="Group 1 Data Science",
                    page_icon=":bar_chart:",
                    layout='centered',
                    initial_sidebar_state="auto")
