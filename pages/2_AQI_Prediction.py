@@ -177,5 +177,5 @@ st.markdown("""
 </table>
 """, unsafe_allow_html=True)
 
-url = "https://www.airnow.gov/aqi/aqi-basics/"
-st.caption("Adapted from the EPA's [U.S. Air Quality Index (AQI)](%s)" % url)
+# url = "https://www.airnow.gov/aqi/aqi-basics/"
+# st.caption("Adapted from the EPA's [U.S. Air Quality Index (AQI)](%s)" % url)
